@@ -13,17 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-
-.flex-container {
-  display: flex;
-  flex-direction: row;
-  font-size: 30px;
-  text-align: center;
-}
-
-
-</style>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div> 
 
 ![GitHub metrics](https://metrics.lecoq.io/JymmyMurillo)
 
@@ -45,8 +37,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left" display="flex" flex-direction="row">
-
+<div align="center" display="flex" flex-direction="row">
 <a style="margin: 10px" href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a style="margin: 10px" href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a style="margin: 10px" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -74,19 +65,18 @@ Here are some ideas to get you started:
 <a style="margin: 10px" href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a style="margin: 10px" href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a style="margin: 10px" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-
 <a style="margin: 10px" href="https://www.apachefriends.org/es/index.html" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /> </a>
-
-
- </p>
+ </div>
 
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jymmymurillo&show_icons=true&locale=en&layout=compact" alt="jymmymurillo" />
+<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=jymmymurillo&show_icons=true&locale=en" alt="jymmymurillo" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jymmymurillo&show_icons=true&locale=en" alt="jymmymurillo" />
+<img align="center" style="margin: 10px" src="https://github-readme-streak-stats.herokuapp.com/?user=jymmymurillo&" alt="jymmymurillo" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jymmymurillo&" alt="jymmymurillo" />
+<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jymmymurillo&show_icons=true&locale=en&layout=compact" alt="jymmymurillo" />
+
 </div>
+
 
 
 ### ✍️Random Dev Quote
@@ -103,48 +93,6 @@ Here are some ideas to get you started:
 ## 💰You can help me by Donating
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JymmyMurillo)
-
-
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-
-
-
-<br/>    
-
-<br/>  
-
-
- 
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7uhwhji008a3io5n1gvi8di32&cover_image=true&theme=default&bar_color=4eb1b0&bar_color_cover=false" /></div>  
 
