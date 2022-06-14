@@ -87,6 +87,7 @@ Here are some ideas to get you started:
 </br>
 
 <div align="center">
+
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=jymmymurillo&show_icons=true&locale=en" alt="jymmymurillo" />
 
 </br>
