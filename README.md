@@ -84,10 +84,16 @@ Here are some ideas to get you started:
 <img src="https://github-profile-trophy.vercel.app/?username=JymmyMurillo" align="center" style="width: 100%" />
 </div>
 
+</br>
+
 <div align="center">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=jymmymurillo&show_icons=true&locale=en" alt="jymmymurillo" />
 
+</br>
+
 <img align="center" style="margin: 10px" src="https://github-readme-streak-stats.herokuapp.com/?user=jymmymurillo&" alt="jymmymurillo" />
+
+</br>
 
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jymmymurillo&show_icons=true&locale=en&layout=compact" alt="jymmymurillo" />
 
