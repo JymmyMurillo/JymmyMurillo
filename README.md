@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 </div>
 
 ---
+</br>
+
 # Tecnologías Trabajadas:
 
 <div align="center" display="flex" flex-direction="row">
@@ -67,6 +69,10 @@ Here are some ideas to get you started:
 <a style="margin: 10px" href="https://www.apachefriends.org/es/index.html" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /> </a>
  </div>
 
+</br>
+
+</br>
+
 ## Métricas
 <div align="center">
 <img src="https://metrics.lecoq.io/JymmyMurillo" align="center" style="width: 100%" />
@@ -77,20 +83,6 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=JymmyMurillo" align="center" style="width: 100%" />
 </div>
-
-
-
-<h1 align="center">Hi 👋, I'm Jymmy Murillo</h1>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jymmymurillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jymmymurillo" height="30" width="80" /></a>
-<a href="https://linkedin.com/in/jymmymurillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jymmymurillo" height="30" width="80" /></a>
-<a href="https://fb.com/jymmymurillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jymmymurillo" height="30" width="80" /></a>
-<a href="https://instagram.com/jymmymurillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jymmymurillo" height="30" width="80" /></a>
-<a href="https://www.youtube.com/c/jymmymurillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jymmymurillo" height="30" width="80" /></a>
-</p>
-
 
 <div align="center">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=jymmymurillo&show_icons=true&locale=en" alt="jymmymurillo" />
@@ -103,42 +95,51 @@ Here are some ideas to get you started:
 
 ---
 
-
-## 💰You can help me by Donating
-
-<a style="margin: 10px" href="https://paypal.me/JymmyMurillo" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" width="150"/> </a>
-
-<div align="center">
-<img src="https://gpvc.arturio.dev/JymmyMurillo" align="center" style="width: 20%" />
-</div>
+<h1 align="center">Algo de lo que escucho: 👋</h1>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7uhwhji008a3io5n1gvi8di32&cover_image=true&theme=default&bar_color=4eb1b0&bar_color_cover=false" /></div>  
 
 <br/>  
 
-  
-
 <br/>  
 
-<div align="center">
-            <a href="https://paypal.me/JymmyMurillo" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
 ---
-## ✍️Random Dev Quote
+
+<h1 align="center">✍️ Citas DEV Random</h1>
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="512px"/>
 </div>
 
----
-## 😂Random Dev Meme
+<br />
+
+<br />
+
+<h1 align="center">😂 Meme DEV Random</h1>
 
 <div align="center">
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://random-memer.herokuapp.com/" width="255px"/>
+</div>
+
+
+---
+
+<h1 align="left">Contáctame:</h1>
+<div align="center">
+<a style="margin: 50px" href="https://linkedin.com/in/jymmymurillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jymmymurillo" width="80" /></a>
+<a style="margin: 50px" href="https://jymmy-murillo.herokuapp.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/220/220603.png" alt="jymmymurillo" width="80" /></a>
+<a style="margin: 50px" href="https://wa.me/+573004427853?text=Hola, revisé tu GitHub y quiero hablar contigo." target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/134/134937.png" alt="jymmymurillo" width="80" /></a>
+</div>
+
+
+<br />
+
+<br />
+
+---
+
+<h1 align="center">Puedes ayudarme donando</h1>
+
+<div align="center">
+<a style="margin: 10px" href="https://paypal.me/JymmyMurillo" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" width="150" align="center" /> </a>
 </div>
