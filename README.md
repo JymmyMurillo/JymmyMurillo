@@ -75,6 +75,13 @@ Here are some ideas to get you started:
 
 ## Métricas
 <div align="center">
+
+
+<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jymmymurillo&show_icons=true&locale=en&layout=compact" alt="jymmymurillo" />
+
+</div>
+
+<div align="center">
 <img src="https://metrics.lecoq.io/JymmyMurillo" align="center" style="width: 100%" />
 </div> 
 
@@ -86,6 +93,27 @@ Here are some ideas to get you started:
 
 </br>
 
+
+
+---
+
+<h1 align="left">Contáctame:</h1>
+<div align="center">
+<a style="margin: 50px" href="https://linkedin.com/in/jymmymurillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="80" /></a>
+<a style="margin: 50px" href="https://jymmy-murillo.herokuapp.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/220/220603.png" alt="PORTAFOLIO" width="80" /></a>
+<a style="margin: 50px" href="https://wa.me/+573004427853?text=Hola, revisé tu GitHub y quiero hablar contigo." target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/134/134937.png" alt="WhatsApp" width="80" /></a>
+</div>
+
+
+<br />
+
+<br />
+
+---
+<h4 align="center">
+<details>
+<summary>Mas información...</summary>
+
 <div align="center">
 
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=jymmymurillo&show_icons=true&locale=en" alt="jymmymurillo" />
@@ -94,17 +122,15 @@ Here are some ideas to get you started:
 
 <img align="center" style="margin: 10px" src="https://github-readme-streak-stats.herokuapp.com/?user=jymmymurillo&" alt="jymmymurillo" />
 
-</br>
-
-<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jymmymurillo&show_icons=true&locale=en&layout=compact" alt="jymmymurillo" />
 
 </div>
 
----
-
 <h1 align="center">Algo de lo que escucho: 👋</h1>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7uhwhji008a3io5n1gvi8di32&cover_image=true&theme=default&bar_color=4eb1b0&bar_color_cover=false" /></div>  
+
+<div align="center">
+<a href="https://open.spotify.com/playlist/6lWFy7oJtjJOq2sY9n5WFH?si=c3a7c1be2a124539" target="blank"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=7uhwhji008a3io5n1gvi8di32&cover_image=true&theme=default&bar_color=4eb1b0&bar_color_cover=false" alt="Spotify Music Image"/></a>
+</div>
 
 <br/>  
 
@@ -115,7 +141,7 @@ Here are some ideas to get you started:
 <h1 align="center">✍️ Citas DEV Random</h1>
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="512px"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="512px" alt="CITA"/>
 </div>
 
 <br />
@@ -125,23 +151,11 @@ Here are some ideas to get you started:
 <h1 align="center">😂 Meme DEV Random</h1>
 
 <div align="center">
-<img src="https://random-memer.herokuapp.com/" width="255px"/>
+<img src="https://random-memer.herokuapp.com/" width="255px" alt="MEME"/>
 </div>
 
 
----
 
-<h1 align="left">Contáctame:</h1>
-<div align="center">
-<a style="margin: 50px" href="https://linkedin.com/in/jymmymurillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jymmymurillo" width="80" /></a>
-<a style="margin: 50px" href="https://jymmy-murillo.herokuapp.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/220/220603.png" alt="jymmymurillo" width="80" /></a>
-<a style="margin: 50px" href="https://wa.me/+573004427853?text=Hola, revisé tu GitHub y quiero hablar contigo." target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/134/134937.png" alt="jymmymurillo" width="80" /></a>
-</div>
-
-
-<br />
-
-<br />
 
 ---
 
@@ -150,3 +164,5 @@ Here are some ideas to get you started:
 <div align="center">
 <a style="margin: 10px" href="https://paypal.me/JymmyMurillo" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" width="150" align="center" /> </a>
 </div>
+
+</details>
