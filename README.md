@@ -23,9 +23,14 @@ Here are some ideas to get you started:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JymmyMurillo)
 -->
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div> 
+</div> -->
+
+
+<div align="center">
+<img src="./Readme.gif" align="center" style="width: 100%" />
+</div>
 
 </br>
 
